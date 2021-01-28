@@ -16,9 +16,12 @@ p
 	font-size: 25px;
 	text-align: center;
 }
-ul
+#p2 
 {
-	margin: 30;
+	color: black;
+	font-family: "Lucida Handwriting", cursive;
+	font-size: 25px;
+
 }
 img
 {
