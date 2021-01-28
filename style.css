@@ -3,9 +3,11 @@ body
 	 background-color: lightblue;
 }
 h1
-{	text-shadow: 4px 4px 5px gray;
+{	text-shadow: 4px 4px 8px gray;
 	color: black;
 	text-align: center;
+	font-size: 35px;
+	font-family: "Lucida Handwriting", cursive;
 }
 a
 {
